@@ -4,7 +4,7 @@ Hardware Ryzen 7 5800x3D , Nvidia 3080 , 32GB DDR4 Ram
 
 Running qwen 2.5 14B entirely offline via llama.ccp on Ubuntu-No Gui just terminal 
 
-using command curl -fsSL https://ollama.com/install.sh | sh -  in the terminal * this will install ollama*
+using command curl -fsSL https://ollama.com/install.sh | sh -  in the terminal *this will install ollama*
 
 then command ollama run qwen2.5:14b *or whatever model you wish to use*
 
