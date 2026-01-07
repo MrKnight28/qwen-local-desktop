@@ -6,7 +6,7 @@ Running Qwen 2.5 14B entirely offline via llama.ccp on Ubuntu-No Gui just termin
 
 using command curl -fsSL https://ollama.com/install.sh | sh -  in the terminal 
 
-then ollama run qwen2.5:14b
+then command ollama run qwen2.5:14b *or whatever model you wish to use*
 
 <img width="647" height="431" alt="Screenshot from 2026-01-07 13-59-46" src="https://github.com/user-attachments/assets/00c099ef-cc3b-44b8-b2ac-cfc81ea8e4f2" />
 
