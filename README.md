@@ -1,5 +1,5 @@
-# qwen-local-desktop
-Qwen 2.5 14b LLM running locally - no cloud, no API keys 
+# qwen-local
+qwen 2.5 14b LLM running locally - no cloud, no API keys 
 Hardware Ryzen 7 5800x3D , Nvidia 3080 , 32GB DDR4 Ram 
 
 Running Qwen 2.5 14B entirely offline via llama.ccp on Ubuntu-No Gui just terminal 
